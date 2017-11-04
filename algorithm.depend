@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1509806928 source:d:\program\codeblocks\algorithm\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"source/util.hpp"
+	"source/kmp.h"
+
+1509034850 source:d:\program\codeblocks\algorithm\kmp.cpp
+	"kmp.h"
+	<memory>
+
+1508950467 d:\program\codeblocks\algorithm\kmp.h
+	<iostream>
+	<string>
+	<vector>
+
+1509802924 d:\program\codeblocks\algorithm\source\kmp.h
+	<iostream>
+	<string>
+	<vector>
+
+1509806909 source:d:\program\codeblocks\algorithm\source\kmp.cpp
+	"kmp.h"
+	"util.hpp"
+
+1509801282 d:\program\codeblocks\algorithm\source\util.hpp
+	<iostream>
+	<string>
+
+1509801354 source:d:\program\codeblocks\algorithm\source\util.cpp
+	"util.hpp"
+
